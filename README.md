@@ -8,3 +8,8 @@ Project launch:
 1. Download Zip or write in terminal:
 $ git clone git@github.com:OksanaPetriv/software-cost-estimation-models.git
 2. install Tkinter: $ sudo apt-get install python3-tk
+
+Screenshots:
+![COCOMO I](screenshots/COCOMO I.png)
+![COCOMO II](screenshots/COCOMO II.png)
+![Function point](screenshots/Funk.png)
